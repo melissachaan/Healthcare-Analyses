@@ -15,4 +15,4 @@ The SQL queries used in this project are designed to be run in Google BigQuery.
 
 ## Data Sources
 [COVID-19 Vaccination Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)
-[COVID-19 Death Data] (https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths) 
+[COVID-19 Death Data](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths) 
