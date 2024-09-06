@@ -1,5 +1,7 @@
 # Bellabeat Case Study with R
 
+### [Kaggle Notebook](https://www.kaggle.com/code/melissachan1/bellabeat-case-study-with-r)
+
 ## Project Description
 This project provides a comprehensive analysis of Smart Device Fitness Data to identify growth opportunities and provide strategic recommendations to enhance Bellabeat's --A Womens Health Smart Product Manufacturer-- marketing strategy.
 
